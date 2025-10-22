@@ -1,0 +1,15 @@
+[
+  {
+    "startTime" : "06\/11\/23 11:31 AM",
+    "id" : "B408D674-0DE9-44B1-8001-7AADD9765493",
+    "endTime" : "06\/11\/23 11:31 AM",
+    "nightTime" : false,
+    "elapsedTime" : 1.1371580362319946,
+    "locations" : [
+      {
+        "longitude" : -122.0312186,
+        "latitude" : 37.332331410000002
+      }
+    ]
+  }
+]
